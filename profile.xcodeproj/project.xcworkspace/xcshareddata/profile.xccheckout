@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>110553A6-AF90-46A6-8012-F612F49C09EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>profile</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2D6DF4E7B7C5ED387219D137E2E4A00D814651D0</key>
+		<string>https://github.com/HomemadeIcing/profile.git</string>
+		<key>D55E37E9C84D19775A88E0943D764AF3AA11F358</key>
+		<string>github.com:HomemadeIcing/ga-mob-alan-ng.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>profile/profile.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2D6DF4E7B7C5ED387219D137E2E4A00D814651D0</key>
+		<string>../../..profile/profile/</string>
+		<key>D55E37E9C84D19775A88E0943D764AF3AA11F358</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:HomemadeIcing/ga-mob-alan-ng.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D55E37E9C84D19775A88E0943D764AF3AA11F358</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D55E37E9C84D19775A88E0943D764AF3AA11F358</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ga-mob-alan-ng</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2D6DF4E7B7C5ED387219D137E2E4A00D814651D0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>profile</string>
+		</dict>
+	</array>
+</dict>
+</plist>
